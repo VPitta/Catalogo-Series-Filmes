@@ -1,0 +1,5 @@
+D:\Visual Studio Code\CatalogoDeSeries\obj\Debug\net6.0\CatalogoDeSeries.csproj.AssemblyReference.cache
+D:\Visual Studio Code\CatalogoDeSeries\obj\Debug\net6.0\CatalogoDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\CatalogoDeSeries\obj\Debug\net6.0\CatalogoDeSeries.AssemblyInfoInputs.cache
+D:\Visual Studio Code\CatalogoDeSeries\obj\Debug\net6.0\CatalogoDeSeries.AssemblyInfo.cs
+D:\Visual Studio Code\CatalogoDeSeries\obj\Debug\net6.0\CatalogoDeSeries.csproj.CoreCompileInputs.cache
